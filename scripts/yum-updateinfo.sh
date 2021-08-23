@@ -3,7 +3,7 @@
 # yum-updateinfo.sh - Retrieves available security and package updates using YUM
 #                     and send it to Zabbix.
 #
-# Author: robin.roevens (at) disroot.org
+# Author: friedrich (at) itfinden.com
 # Version: 1.0
 #
 # Requires: yum-plugin-security
